@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>IDE</title>
+        <description>News about different IDEs</description>
+        <link>http://github.com/A22SergioOC/projectRSSide</link>
+        <pubDate>Tue, 22 Nov 2022 12:15:00 GMT</pubDate>
+        <managingEditor>a22sergiooc@iessanclemente.net (Sergio Otero)</managingEditor>
+        <item>
+            <title>Eclipse</title>
+            <link>https://a22sergiooc.github.io/projectRSSide/eclipse.html</link>
+            <pubDate>Tue, 22 Nov 2022 12:15:00 GMT</pubDate>
+            <description>Triks on Eclipse</description>
+        </item>
+        <item>
+            <title>NetBeans</title>
+            <link>https://a22sergiooc.github.io/projectRSSide/netbeans.html</link>
+            <pubDate>Tue, 22 Nov 2022 12:15:00 GMT</pubDate>
+            <description>Triks on NetBeans</description>
+        </item>
+        <item>
+            <title>VS Code</title>
+            <link>https://a22sergiooc.github.io/projectRSSide/vscode.html</link>
+            <pubDate>Tue, 22 Nov 2022 12:15:00 GMT</pubDate>
+            <description>Triks on VS Code</description>
+        </item>
+    </channel>
+</rss>
+   
